@@ -63,7 +63,7 @@ if (st.button("Analyser et Comparer")):
                                 3. Prix
                                 
                                 Pour le premier doc, je vais juste avoir besion de 4 premières articles.
-                                Le prix pour les deux documents est calculée en millième (si c'est 1128, le prix est 1.128)
+                                Le prix pour les deux documents est calculée pour le mille en € (si c'est 1128, le prix est 1.128)
                                 Présente les résultats sous forme de tableau comparatif et indique les différences significatives entre les deux documents. 
                                 Je veux avoir le comparaison des diffèrence de prix par article dépendant de la taille (en %) dans le même tableau ((doc1-doc2)/doc2). (171346A1 et 171346C correspond au MEDIUM du doc 2 et 171347A1 et 171347C au LARGE du doc 2)"""
                     },
